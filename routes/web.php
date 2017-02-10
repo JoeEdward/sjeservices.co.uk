@@ -16,5 +16,5 @@ Route::get('/', function () {
 });
 
 Route::get('duane', function () {
-	return view('duane');
+	return view('duane.html');
 });
