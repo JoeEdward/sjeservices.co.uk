@@ -3,7 +3,7 @@
         <title>The Duane</title>
     </head>
     <body>
-        <h1>The Duane</h1>
+        <h1 style="font-size: 50px; font-family: arial; color: blue;">In the begining was the word and the word was duane</h1>
         <p>According to all known laws of dancing, there is no way that a human should be able to dance.</p>
         <p>The Duane, of course, dances anyway</p>
         <p>For he is the one and only Duane.</p>
